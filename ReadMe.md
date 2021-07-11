@@ -10,3 +10,7 @@ $ sudo apt update
 $ sudo apt install nasm
 $ sudo apt install qemu-system-x86 && qemu-system-x86_64
 ```
+
+### References:
+
+- Ralf Brown's Interrupt List:  http://www.ctyme.com/intr/int.htm
